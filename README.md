@@ -1,15 +1,13 @@
+# Flowerista Store 🌸
 
-## 🚀 How to Run
+Flowerista Store is a simple and elegant flower shop website built using **HTML**, **CSS**, and images.
 
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
+## 🌟 Overview
 
-## 📁 To-Do (Optional)
+This project showcases a landing page for a flower store, featuring:
+- A visually appealing design
+- Responsive layout (if applicable)
+- Image-based product highlights
 
-- [ ] Add JavaScript for interactivity
-- [ ] Organize images into `/images` folder
-- [ ] Make the layout responsive
+## 🗂️ Project Structure
 
-## 📝 Author
-
-Created by Engaber11
